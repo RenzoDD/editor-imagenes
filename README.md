@@ -17,7 +17,7 @@ Demostración de filtros de imagenes
 
 ## Programadores ✒️
 
-* **U201810780** - Renzo Diaz - [RenzoDD2001](https://github.com/RenzoDD2001)
+* **U201810780** - Renzo Diaz - [RenzoDD](https://github.com/RenzoDD)
 
 ## Agradecimientos 🎁
 
